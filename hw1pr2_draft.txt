@@ -4,17 +4,17 @@
 //
 // Task 1: Blow me away - says the paper airplane!
 step 1  : first you need a paper
-step 2  : draw a prepindicular line on the paper
+step 2  : draw a prepindicular line down the middle of the paper
 step 3  : fold the paper using the line that you created 
 step 4  : open the paper untill you see the line that you drawed and created by folding the paper.
-step 5  :  grap the paper from upright corner.
-step 6  : fold the paper to create a triangle 
+step 5  :  grab the paper from upright corner.
+step 6  : fold the paper to create a triangle with one line on the crease?
 step 6  : align the upright triangle with the prepinduclar line. 
-step 7  : grap the triangle from the bottom right.
+step 7  : grab the triangle from the bottom right. What's the bottom?
 step 7  : fold the paper again.
 step 8  : align the triangle that you created by folding it with the prepindicular line. 
-step 9  : repeat the same process on the left side.
-step 10 : fold the paper using the prepincular line 
+step 9  : repeat the same process on the left side using the side with the conrner on the opposite side.
+step 10 : fold the paper using the prepindicular line 
 step 11 : make sure you see one big triangle on each side of the paper after folding it.
-step 12 : unfold the big triangle on each side.
+step 12 : unfold the big triangle on each side. I'd say, something a bit more specific like pull it out from the most recently folded triangle on each side. 
 
